@@ -1,0 +1,39 @@
+/* #cuadrado{
+
+
+    background-color: black;
+    height: 20cm;
+    width: 20cm;
+    border: rgb(8, 8, 255);
+    border-radius: 50px;
+} */
+
+body {
+    font-family: 'arial';
+}
+
+/* h2{
+    color: aquamarine;
+    font-size: 40px;
+} */
+
+li {
+    color: red;
+    font-size: 20px;
+}
+
+.peliculas {
+    color: crimson;
+}
+
+
+
+.series {
+    font-size: 40px;
+}
+
+.favoritas {
+    font-weight: bold;
+    color: rebeccapurple;
+    font-size: 25px;
+}

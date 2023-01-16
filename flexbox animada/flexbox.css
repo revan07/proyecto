@@ -1,0 +1,51 @@
+body {
+    background-color: black;
+
+}
+
+.container {
+    border: 1px solid hotpink;
+    border-radius: 2px;
+
+}
+
+.container {
+background-color: darkorchid;
+    display: flex;
+    width: 100%;
+    /* controla la direccion del flex */
+    /* flex-direction: row-reverse; */
+    /* flex-direction: column-reverse; */
+    /* flex-wrap: wrap; para que no se desborde y crea mas lineas */
+    /* flex-wrap: wrap; */
+    /* justify-content: center; */
+    justify-content: center; 
+}
+
+.container>div {
+    background-color:cyan;
+    border: 2px solid deeppink;
+    color: black;
+    border-radius: 5px;
+    padding: 5px;
+    transition: all 0.5s;
+}
+
+.container>div:hover{
+background-color: magenta;
+}
+
+.item-1 {}
+
+.item-2 {
+
+}
+
+.item-3 {
+
+}
+
+.item-4 {
+
+}
+

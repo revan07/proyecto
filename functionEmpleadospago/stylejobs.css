@@ -1,0 +1,18 @@
+#formulario{
+    display: flex;
+    flex-direction: column;
+    margin: 200px;
+    padding: 50px;
+    border: 1px solid;
+    background-color: darkslategray;
+    
+}
+
+
+#formulario>input{
+    background-color: darkslategray;
+    padding: 5px;
+    border: 1px solid;
+    border-color: aqua;
+    color: white;
+}
